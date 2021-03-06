@@ -19,7 +19,7 @@ for i in range(1,50):
     a.append(i)
 n=random.sample(a,6)
 
-# while len(n)<4:
+# while len(n)<6:
 #     num=int(input('請輸入數字:'))
 #     n.append(num)
 print('串列內容:',n)
